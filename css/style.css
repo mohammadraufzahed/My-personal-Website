@@ -6,6 +6,9 @@ body {
     font-family: 'Lato';
     background-color:#dfe6e9;
 }
+.profile-picture{
+    padding-top: 10px;
+}
 .profile-picture img{
     display: block;
     border-radius: 100%;
